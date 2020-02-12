@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PJColombo/tetris.git"
+    "url": "git+https://github.com/PJColombo/tetris-backend.git"
   },
   "author": "Paulo J. Colombo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PJColombo/tetris/issues"
+    "url": "https://github.com/PJColombo/tetris-backend/issues"
   },
-  "homepage": "https://github.com/PJColombo/tetris#readme"
+  "homepage": "https://github.com/PJColombo/tetris-backend#readme"
 }
